@@ -1,0 +1,4 @@
+data
+DCGEN.h5
+discriminator_model.h5
+generator_model.h5
