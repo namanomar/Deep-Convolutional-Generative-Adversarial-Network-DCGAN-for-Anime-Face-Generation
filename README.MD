@@ -16,8 +16,8 @@ This repository contains the implementation of a **Deep Convolutional Generative
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/namanomar/Anime-Face-DCGAN.git
-cd Anime-Face-DCGAN
+https://github.com/namanomar/Deep-Convolutional-Generative-Adversarial-Network-DCGAN-for-Anime-Face-Generation.git
+cd Deep-Convolutional-Generative-Adversarial-Network-DCGAN-for-Anime-Face-Generation
 ```
 
 ### 2. Install Dependencies
